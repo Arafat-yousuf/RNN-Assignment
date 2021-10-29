@@ -1,4 +1,4 @@
-# RNN-Assignment
+# Twitter Sentiment Analysis using RNN
 ### **Data Visualization**
 
 The dataset contains two columns and 10315 rows. The first column is the tweets and the second column is
